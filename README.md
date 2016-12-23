@@ -1,7 +1,8 @@
 # Robert_In_Space
 *Unity Game made for Intro to Game Dev Course*
 
-Collaborators: [Saif Rahman](https://github.com/SafeRamen?tab=repositories), [Matthew Chan](https://github.com/chanmatthew)
+Collaborators: [Saif Rahman](https://github.com/SafeRamen), [Matthew Chan](https://github.com/chanmatthew)
+Game Tester: [Arsen Akishev](https://github.com/arsenakishev)
 
 To run the game in an IDE setting, you need to download UNITY.
 
