@@ -3,7 +3,7 @@
 
 Collaborators: [Saif Rahman](https://github.com/SafeRamen), [Matthew Chan](https://github.com/chanmatthew)
 
-Game Tester: [Arsen Akishev](https://github.com/arsenakishev), [Ife Masters](https://github.com/ifeLawal)
+Game Tester: [Arsen Akishev](https://github.com/arsenakishev), [Ife Lawal](https://github.com/ifeLawal)
 
 To run the game in an IDE setting, you need to download UNITY.
 
